@@ -2,7 +2,7 @@
 <template>
   <div class="relative flex items-top justify-center min-h-screen bg-white sm:items-center sm:pt-0">
     <div class="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8">
-      <h2 class="inline text-3xl font-bold tracking-tight text-gray-900 sm:block sm:text-4xl sm:tracking-tight">Something cool in coming to town.</h2>
+      <h2 class="inline text-3xl font-bold tracking-tight text-gray-900 sm:block sm:text-4xl sm:tracking-tight">Something cool is coming to town.</h2>
       <p class="inline text-3xl font-bold tracking-tight text-sky-400 sm:block sm:text-4xl sm:tracking-tight">Sign up to get the scoop.</p>
       <form class="mt-8 sm:flex" id="newsletter" name="newsletter" data-netlify="true" method="POST">
         <label for="email-address" class="sr-only">Email address</label>
